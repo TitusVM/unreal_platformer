@@ -108,7 +108,20 @@
 				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/idle/FB_Player_Idle.uasset",
 				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/jump/FB_Player_Jumb.uasset",
 				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/Blueprints/BP_SpriteCharacter.uasset",
-				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/Blueprints/GM_SlideScroller.uasset"
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/Blueprints/GM_SlideScroller.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/environment/layers/back_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/idle/player-idle-1_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/idle/player-idle-2_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/idle/player-idle-3_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/idle/player-idle-4_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/jump/player-jump-1_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/jump/player-jump-2_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/run/player-run-1_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/run/player-run-2_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/run/player-run-3_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/run/player-run-4_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/run/player-run-5_Sprite.uasset",
+				"D:/Projet/MASTER/MAUI/unreal_platformer/MAUI_SideScroller2D/Content/SunnyLandAssets/sprites/player/run/player-run-6_Sprite.uasset"
 			]
 		}
 	]
